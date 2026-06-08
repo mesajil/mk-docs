@@ -23,7 +23,7 @@ Complementan el nombre del producto.
 * `(BTF)`
 * `(Xin1) CASE +FUENTE +Cooler CPU +Soporte GPU`: Puede ser `(3IN1)`, `(4IN1)`, etc.
 
-## Ejemplo de complementos de nombre:
+### Ejemplo de complementos de nombre:
 
 CASE con ARGB, LCD Integrado y BTF. 
 
@@ -31,11 +31,21 @@ CASE con ARGB, LCD Integrado y BTF.
 ARGB LCD (BTF)
 ```
 
-## Ejemplo de complementos de nombre:
+### Ejemplo de complementos de nombre:
 
 CASE White Edition 3 en 1: Fuente y Cooler CPU integrados. 
 
 ```text
 WHITE (3IN1) CASE +FUENTE +Cooler CPU
 ```
+
+
+
+# Switch
+
+## Características destacadas
+
+* Marca
+* Modelo
+* Puertos
 
